@@ -1,0 +1,18 @@
+.header-text{
+    text-align: center;
+    margin-top: 24px;
+    font-size: 36px;
+    color: #005580;
+}
+.form-row{
+    margin-top: 3rem;
+}
+.form-div{
+    border: 2px solid #d2d2dc;
+    padding: 16px;
+    border-radius: 23px;
+}
+.btn-reset{
+    border: 2px solid blue;
+    color: blue
+}
